@@ -1,0 +1,4 @@
+This is filehandling 
+We are practicing filehandling 
+This is read + mode
+ByeBye
