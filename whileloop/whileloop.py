@@ -648,9 +648,9 @@ for i in range(1,n+1):
         op.append(i)
 print(op)
 '''
-#40
-n1=1
-n2=49
-for i in range(1,n2+1):
-    for j in range(n2,n1):
-        print(f'{i}___{j}')
+# #40
+# n1=1
+# n2=49
+# for i in range(1,n2+1):
+#     for j in range(n2,n1):
+#         print(f'{i}___{j}')
